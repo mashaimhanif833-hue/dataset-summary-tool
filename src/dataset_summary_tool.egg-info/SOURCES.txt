@@ -1,0 +1,9 @@
+README.md
+setup.py
+src/dataset_summary/__init__.py
+src/dataset_summary/summary.py
+src/dataset_summary_tool.egg-info/PKG-INFO
+src/dataset_summary_tool.egg-info/SOURCES.txt
+src/dataset_summary_tool.egg-info/dependency_links.txt
+src/dataset_summary_tool.egg-info/requires.txt
+src/dataset_summary_tool.egg-info/top_level.txt

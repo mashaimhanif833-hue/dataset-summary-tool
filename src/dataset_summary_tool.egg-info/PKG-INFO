@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: dataset-summary-tool
+Version: 0.1.0
+Summary: A tool for dataset summary and visualization
+Author: Mashaim Hanif
+Description-Content-Type: text/markdown
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
